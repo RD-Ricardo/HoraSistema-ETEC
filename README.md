@@ -1,2 +1,8 @@
-# HoraSistema
-Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicação console com o nome indicado.
+## Exercício `HoraSistema`
+
+Exiba a data e a hora atual do sistema.
+
+Ex.:
+```
+Neste momento são exatamente 13/05/2020 14:58:13.
+```
